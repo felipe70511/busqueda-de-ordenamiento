@@ -10,7 +10,7 @@ package busqueda.binaria.ordenada;
  * @author soa-a201-e-016
  */
 public class BusquedaBinariaOrdenada {
-
+    //otro cambio
     //esto es una prueba
     /**
      * @param args the command line arguments
